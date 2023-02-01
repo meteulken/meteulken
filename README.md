@@ -3,7 +3,16 @@
 
 [![mulken's 42 stats](https://badge.mediaplus.ma/greenbinary/mulken?1337Badge=off&UM6P=off)](https://github.com/meteulken)
 
-![](https://komarev.com/ghpvc/?username=meteulken)
+## Contact Me
+
+  <body>
+    <div class="container">
+      <img src="https://icon-library.com/images/transparent-discord-icon/transparent-discord-icon-3.jpg" class="discord-logo" style="width:50px; height:50px"/>
+      <p style="background-color: #F0F0F0; display: inline-block; padding: 10px">el recluso#9692</p>
+    </div>
+  </body>
+  
+---
 
 ### [SHELL00 Detaylı Anlatım](https://github.com/meteulken/42-piscine/tree/main/Shell00)
 ---
@@ -71,3 +80,6 @@
 	# Piscine Exam Questions & Solutions
 		Q | http://nigal.freeshell.org/42/exam-review.php
 		S | http://nigal.freeshell.org/42/exam-solutions/
+
+
+![](https://komarev.com/ghpvc/?username=meteulken)
