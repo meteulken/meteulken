@@ -20,9 +20,6 @@
 ---
 <a href="https://github.com/meteulken/42-piscine/stargazers"><img src="https://img.shields.io/github/stars/meteulken/42-piscine.svg?style=social&label=Projeyi Kaydedebilirsiniz" alt="Projeyi Kaydedebilirsiniz."></a>
 ---
-<a class="github-button" href="https://github.com/meteulken/42-piscine" data-icon="octicon-thumbs-up" data-size="large" aria-label="Vote this repository" data-show-count="true">Vote</a>
-
----
 
 # 42_Schools
 
