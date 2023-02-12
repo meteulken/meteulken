@@ -18,6 +18,8 @@
 ---
 ### [C03 (Comming Soon)]
 ---
+<a href="https://github.com/meteulken/42-piscine/stargazers"><img src="https://img.shields.io/github/stars/meteulken/42-piscine.svg?style=social&label=Projeyi Kaydedebilirsiniz" alt="Projeyi Kaydedebilirsiniz."></a>
+---
 
 # 42_Schools
 
