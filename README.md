@@ -5,18 +5,10 @@
 
 
 ---
+### C Piscine Detaylı Anlatımlar
 
-### [SHELL00 Detaylı Anlatım](https://github.com/meteulken/42-piscine/tree/main/Shell00)
+### [SHELL00](https://github.com/meteulken/42-piscine/tree/main/Shell00) // [SHELL01](https://github.com/meteulken/42-piscine/tree/main/Shell01) // [C00](https://github.com/meteulken/42-piscine/tree/main/C00) // [C01](https://github.com/meteulken/42-piscine/tree/main/C01) // [C02](https://github.com/meteulken/42-piscine/tree/main/C02)
 ---
-### [SHELL01 Detaylı Anlatım](https://github.com/meteulken/42-piscine/tree/main/Shell01)
----
-### [C00 Detaylı Anlatım](https://github.com/meteulken/42-piscine/tree/main/C00)
----
-### [C01 Detaylı Anlatım](https://github.com/meteulken/42-piscine/tree/main/C01)
----
-### [C02 Detaylı Anlatım](https://github.com/meteulken/42-piscine/tree/main/C02)
----
-### [C03 (Comming Soon)]
 ---
 
 
