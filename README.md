@@ -1,5 +1,4 @@
 <h2 align="center">Merhaba 👋, Ben Mete</h2>
-<h3 align="center">Yazılım Geliştiricisi</h3>
 
 
 [![mulken's 42 stats](https://badge.mediaplus.ma/greenbinary/mulken?1337Badge=off&UM6P=off)](https://github.com/meteulken)
