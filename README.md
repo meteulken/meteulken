@@ -23,7 +23,7 @@
 
 <h2 align="left">GitHub'ımda çalıştığım bazı projeler:</h2>
 
-- C Piscine Detaylı Anlatımlar [SHELL00](https://github.com/meteulken/42-piscine/tree/main/Shell00) // [SHELL01](https://github.com/meteulken/42-piscine/tree/main/Shell01) // [C00](https://github.com/meteulken/42-piscine/tree/main/C00) // [C01](https://github.com/meteulken/42-piscine/tree/main/C01) // [C02](https://github.com/meteulken/42-piscine/tree/main/C02)
+- C Piscine Projects [SHELL00](https://github.com/meteulken/42-piscine/tree/main/Shell00) // [SHELL01](https://github.com/meteulken/42-piscine/tree/main/Shell01) // [C00](https://github.com/meteulken/42-piscine/tree/main/C00) // [C01](https://github.com/meteulken/42-piscine/tree/main/C01) // [C02](https://github.com/meteulken/42-piscine/tree/main/C02)
 
 - Unity Project [The Lurking Darkness](https://github.com/Dew-Hub/The-Lurking-Darkness)
 
