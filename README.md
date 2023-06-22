@@ -33,8 +33,8 @@
 
 ## Github Status
 
-[![status](https://raw.githubusercontent.com/meteulken/github-stats-transparent/output/generated/overview.svg)](#)
-[![languages](https://raw.githubusercontent.com/meteulken/github-stats-transparent/output/generated/languages.svg)](#)
+[![status](https://camo.githubusercontent.com/db4c3fdfb3b61ecb2aff65ebdd94672d223cc5b9c87b68b9fb9f5d6f6e6e5640/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d657465756c6b656e2673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964653d73746172732c697373756573267468656d653d7261646963616c)](#)
+[![languages](https://github.com/meteulken)](#)
 
 </div>
 
