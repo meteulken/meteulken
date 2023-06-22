@@ -13,6 +13,8 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="csharp" width="40" height="40"/> </a>
 </p>
 
+
+
 ## 🚀 42 Projects
 
 <div align="center">
@@ -28,6 +30,11 @@
 [![Minishell](https://github.com/meteulken/meteulken/blob/main/42_badges/minishelle.png)]()
 [![Cub3d](https://github.com/meteulken/meteulken/blob/main/42_badges/cub3dn.png)]()
 [![Netpractice](https://github.com/meteulken/meteulken/blob/main/42_badges/netpracticen.png)]()
+
+## Github Status
+
+[![status](https://raw.githubusercontent.com/meteulken/github-stats-transparent/output/generated/overview.svg)](#)
+[![languages](https://raw.githubusercontent.com/meteulken/github-stats-transparent/output/generated/languages.svg)](#)
 
 </div>
 
