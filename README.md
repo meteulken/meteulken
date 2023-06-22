@@ -13,13 +13,23 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="csharp" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub İstatistikleri:</h3>
+## 🚀 42 Projects
 
-![İstatistiklerinizi gösteren bir görüntü](https://github-readme-stats.vercel.app/api?username=meteulken&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
+<div align="center">
 
-<h3 align="left">En çok kullanılan diller:</h3>
+[![Libft](https://github.com/meteulken/meteulken/blob/main/42_badges/libftm.png)](https://github.com/meteulken/Libft)
+[![GNL](https://github.com/meteulken/meteulken/blob/main/42_badges/get_next_linem.png)](https://github.com/meteulken/Get_next_line)
+[![PRINTF](https://github.com/meteulken/meteulken/blob/main/42_badges/ft_printfm.png)](https://github.com/meteulken/ft_printf)
+[![Born2BeRoot](https://github.com/meteulken/meteulken/blob/main/42_badges/born2berootm.png)](https://github.com/meteulken/Born42beroot)
+[![Minitalk](https://github.com/meteulken/meteulken/blob/main/42_badges/minitalkm.png)](https://github.com/meteulken/Minitalk)
+[![So_long](https://github.com/meteulken/meteulken/blob/main/42_badges/so_longm.png)](https://github.com/meteulken/So_Long)
+[![Push_swap](https://github.com/meteulken/meteulken/blob/main/42_badges/push_swapm.png)](https://github.com/meteulken/Push_Swap)
+[![Philosophers](https://github.com/meteulken/meteulken/blob/main/42_badges/philosophersm.png)](https://github.com/meteulken/Philosophers)
+[![Minishell](https://github.com/meteulken/meteulken/blob/main/42_badges/minishelle.png)]()
+[![Cub3d](https://github.com/meteulken/meteulken/blob/main/42_badges/cub3dn.png)]()
+[![Netpractice](https://github.com/meteulken/meteulken/blob/main/42_badges/netpracticen.png)]()
 
-[![En çok kullanılan dillerinizi gösteren bir görüntü](https://github-readme-stats.vercel.app/api/top-langs/?username=meteulken&layout=compact)](https://github.com/meteulken)
+</div>
 
 <h2 align="left">GitHub'ımda çalıştığım bazı projeler:</h2>
 
