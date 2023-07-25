@@ -11,6 +11,7 @@
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/> </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="40" height="40"/> </a>
 </p>
 
 
@@ -30,6 +31,7 @@
 [![Minishell](https://github.com/meteulken/meteulken/blob/main/42_badges/minishelle.png)]()
 [![Cub3d](https://github.com/meteulken/meteulken/blob/main/42_badges/cub3dn.png)]()
 [![Netpractice](https://github.com/meteulken/meteulken/blob/main/42_badges/netpracticen.png)]()
+
 
 GitHub Stats                  Top Languages
 -------------------------     -------------------------
