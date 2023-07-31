@@ -7,6 +7,7 @@
 
 - 🌱 Şu anda öğreniyorum Unity & UE5
 - Blog Sayfam [Github Wiki](https://github.com/meteulken/meteulken.github.io/wiki)
+- Meduim Blog [Meduim Blog](https://meteulken.medium.com/)
 
 <h3 align="left">Diller ve Araçlar:</h3>
 <p align="left">
