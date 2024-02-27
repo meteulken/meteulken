@@ -30,9 +30,10 @@
 [![So_long](https://github.com/meteulken/meteulken/blob/main/42_badges/so_longm.png)](https://github.com/meteulken/So_Long)
 [![Push_swap](https://github.com/meteulken/meteulken/blob/main/42_badges/push_swapm.png)](https://github.com/meteulken/Push_Swap)
 [![Philosophers](https://github.com/meteulken/meteulken/blob/main/42_badges/philosophersm.png)](https://github.com/meteulken/Philosophers)
-[![Minishell](https://github.com/meteulken/meteulken/blob/main/42_badges/minishelle.png)]()
-[![Cub3d](https://github.com/meteulken/meteulken/blob/main/42_badges/cub3dn.png)]()
-[![Netpractice](https://github.com/meteulken/meteulken/blob/main/42_badges/netpracticen.png)]()
+[![Netpractice](https://github.com/meteulken/meteulken/blob/main/42_badges/netpracticem.png)](https://github.com/meteulken)
+[![Minishell](https://github.com/meteulken/meteulken/blob/main/42_badges/minishellm.png)](https://github.com/meteulken)
+[![Cub3d](https://github.com/meteulken/meteulken/blob/main/42_badges/cub3dm.png)](https://github.com/meteulken)
+[![CPP Modules](https://github.com/meteulken/meteulken/blob/main/42_badges/cppe.png)](https://github.com/meteulken/CPP_Modules)
 
 
 GitHub Stats                  Top Languages
